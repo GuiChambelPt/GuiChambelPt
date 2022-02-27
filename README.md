@@ -9,4 +9,4 @@
 ##
 - 🌱 Currently learning Python, JavaScript and HTML
 
-  ![Snake animation](https://github.com/GuiChambelPt/GuiChambelPt/blob/output/github-contribution-grid-snake.svg
+  ![Snake animation](https://github.com/GuiChambelPt/GuiChambelPt/blob/output/github-contribution-grid-snake.svg)
