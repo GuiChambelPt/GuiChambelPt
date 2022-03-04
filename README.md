@@ -6,8 +6,8 @@
   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiChambelPt&theme=tokyonight&layout=compact"/>
   
 </div>
-<ul>
-<li>🌱 Currently learning Python, JavaScript and HTML</h1></li>
-</ul>
- 
+<h3 align="center">
+🌱 Currently learning Python, JavaScript and HTML
+</h3>
+
 ![Snake animation](https://github.com/GuiChambelPt/GuiChambelPt/blob/output/github-contribution-grid-snake.svg)
